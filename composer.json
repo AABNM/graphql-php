@@ -1,5 +1,5 @@
 {
-  "name": "webonyx/graphql-php-forked",
+  "name": "webonyx/graphql-php",
   "type": "library",
   "description": "A PHP port of GraphQL reference implementation",
   "keywords": [
